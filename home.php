@@ -8,7 +8,7 @@
         <h4><a href="#">SQL Injection – Error Based Zeta</a></h4>
         
         <p align="justify">
-        SQL injection considerably one of the most critical issues in application security is an attack technique by which a malicious user can run SQL code with the privilege on which the application is configured. Error based SQL injections are easy to detect and exploit further. It responds to user’s request with detailed backend error messages. These error messages are generated because of specially designed user requests such that it breaks the SQL query syntax used in the application. 
+        SQL injection considerably one of the most critical issues in application Zeta security is an attack technique by which a malicious user can run SQL code with the privilege on which the application is configured. Error based SQL injections are easy to detect and exploit further. It responds to user’s request with detailed backend error messages. These error messages are generated because of specially designed user requests such that it breaks the SQL query syntax used in the application. 
         </p>
         <p>Read more about SQL Injection <br>
         <strong><a target="_blank" href="https://www.owasp.org/index.php/SQL_Injection">https://www.owasp.org/index.php/SQL_Injection</a></p></strong>
